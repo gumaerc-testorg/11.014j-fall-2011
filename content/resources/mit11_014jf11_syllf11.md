@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 109d4c43-215f-9683-e33c-6746b954d70f
 resourcetype: Document
 title: Fall 2011, Robert Fogelson
 uid: 04fb06d4-dd6e-024a-2e50-1cfe8d956df6

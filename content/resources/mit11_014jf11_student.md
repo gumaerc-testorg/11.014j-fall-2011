@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 098a941e-9232-0043-4f0f-472b1b80163b
 resourcetype: Document
 title: "How The Sound Was \u201CSaved\u201D The Battle of the Oyster Bay-Rye Bridge"
 uid: c1800639-0a07-59de-9d48-877efdf0c0b1
