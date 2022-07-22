@@ -6,6 +6,7 @@ file: /courses/11-014j-american-urban-history-ii-fall-2011/c18006390a0759de9d488
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "How The Sound Was \u201CSaved\u201D The Battle of the Oyster Bay-Rye Bri
 uid: c1800639-0a07-59de-9d48-877efdf0c0b1
 ---
 Example of student work for a research paper on the history of the built environment in American cities.
-
