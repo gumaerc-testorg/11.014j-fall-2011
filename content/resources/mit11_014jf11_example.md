@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work for a research paper on the history of the built
   environment in American cities.
 file: /courses/11-014j-american-urban-history-ii-fall-2011/b33d57848e73305153dc5e82db13cb7e_MIT11_014jF11_example.pdf
+file_size: 201537
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
