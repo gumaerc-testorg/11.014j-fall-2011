@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Syllabus from the Fall 2010 version of American Urban History II.
-file: /ol-ocw-studio-app/courses/11-014j-american-urban-history-ii-fall-2011/c489d0acfbb257811bba5f1ec22c1518_MIT11_014JF11_syllf10.pdf
+file: /courses/11-014j-american-urban-history-ii-fall-2011/c489d0acfbb257811bba5f1ec22c1518_MIT11_014JF11_syllf10.pdf
 file_size: 139708
 file_type: application/pdf
 learning_resource_types: []
