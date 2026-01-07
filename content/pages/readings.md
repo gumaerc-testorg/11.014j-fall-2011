@@ -46,13 +46,13 @@ Parks
 {{< tdopen >}}
 
 
-Blodgett, Geoffrey. "{{% resource_link "81480d95-4e03-4918-975e-903750df05e3" "Frederick Law Olmsted: Landscape Architecture as Conservative Reform" %}}." _Journal of American History_ 62, no. 4 (1976): 869–89.
+Blodgett, Geoffrey. "[Frederick Law Olmsted: Landscape Architecture as Conservative Reform](http://dx.doi.org/10.2307/1903842)." _Journal of American History_ 62, no. 4 (1976): 869–89.
 
 Stewart, Ian R. "Politics and the Park." _New York Historical Society Quarterly_ (1977): 124–55.
 
-{{% resource_link "d5a63cdd-4d78-4767-9f0a-3ebd3f616b2a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Olmsted, Frederick Law, Jr., and Theodora Kimball, eds. {{% resource_link "d5a63cdd-4d78-4767-9f0a-3ebd3f616b2a" "_Forty Years of Landscape Architecture: Central Park_" %}}. MIT Press, 1973, pp. 18-67. ISBN: 9780262650069.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650069) Olmsted, Frederick Law, Jr., and Theodora Kimball, eds. [_Forty Years of Landscape Architecture: Central Park_](https://mitpress.mit.edu/9780262650069). MIT Press, 1973, pp. 18-67. ISBN: 9780262650069.
 
-Rosenzweig, Roy. Chapter 5 in _Eight Hours For What We Will: Workers and Leisure in an Industrial City, 1870-1920_. Cambridge University Press, 1985. ISBN: 9780521313971. \[Preview with {{% resource_link "d68e0d5a-decf-44ab-97c5-5f3717e0d0f9" "Google Books" %}}\]
+Rosenzweig, Roy. Chapter 5 in _Eight Hours For What We Will: Workers and Leisure in an Industrial City, 1870-1920_. Cambridge University Press, 1985. ISBN: 9780521313971. \[Preview with [Google Books](http://books.google.com/books?id=1f60GVtO1L0C&pg=PA125#v=onepage)\]
 
 Olmsted, Frederick Law, Jr., and Theodora Kimball Hubbard, eds. _Frederick Law Olmsted, Landscape Architect, 1822-1903_. Nabu Press, 2011, pp. 451–65. ISBN: 9781178699555.
 
@@ -70,7 +70,7 @@ Amusement Parks
 {{< tdopen >}}
 
 
-{{% resource_link "6fb416d0-eb3c-40d6-aaf5-327e3f8a06e3" "_Coney Island_" %}}. PBS., 1991. (Film)
+[_Coney Island_](https://www.imdb.com/title/tt0256700/). PBS., 1991. (Film)
 
 Kasson, John. _Amusing the Million: Coney Island at the Turn of the Century_. Hill and Wang, 1978. ISBN: 9780809001330.
 
@@ -164,7 +164,7 @@ Schuyler, Montgomery. _American Architecture and Other Writings_. Edited by Will
 
 Fogelson, Robert M. Chapter 3 in _Downtown: Its Rise and Fall, 1880-1950_. Yale University Press, 2003. ISBN: 9780300098273.
 
-Neil, J. M. "{{% resource_link "44662ee2-d2f8-40fd-a0fc-bd1ceea95f35" "Paris or New York? The Shaping of Downtown Seattle, 1903-14" %}}." _Pacific Northwest Quarterly_ 75, no. 1 (1984): 22–33.
+Neil, J. M. "[Paris or New York? The Shaping of Downtown Seattle, 1903-14](http://www.jstor.org/stable/40490846)." _Pacific Northwest Quarterly_ 75, no. 1 (1984): 22–33.
 
 Civic Development Department, Chamber of Commerce of the United States. "Economic Height of Buildings: The Skyscraper Attacked and Defended." Washington, DC, 1927, pp. 3–31.
 
@@ -182,11 +182,11 @@ Department Stores
 {{< tdopen >}}
 
 
-Tarr, Joel A. "{{% resource_link "b9646ff4-bc1a-4024-b85f-f6d01241611b" "The Chicago Anti-Department Store Crusade of 1897" %}}." _Journal of the Illinois State Historical Society_ 64, no. 2 (1971): 161–72.
+Tarr, Joel A. "[The Chicago Anti-Department Store Crusade of 1897](http://www.jstor.org/stable/40190914)." _Journal of the Illinois State Historical Society_ 64, no. 2 (1971): 161–72.
 
-Barth, Gunther. _City People: The Rise of Modern City Culture in Nineteenth-Century America_. Oxford University Press, 1982, pp. 110–47. ISBN: 9780195031942. \[Preview with {{% resource_link "7881376c-a46c-405a-ba14-2fa70f04e80d" "Google Books" %}}\]
+Barth, Gunther. _City People: The Rise of Modern City Culture in Nineteenth-Century America_. Oxford University Press, 1982, pp. 110–47. ISBN: 9780195031942. \[Preview with [Google Books](http://books.google.com/books?id=TN17JTXGrJQC&pg=PA110#v=onepage)\]
 
-Benson, Susan Porter. Chapters 3–4 in _Counter Cultures: Saleswomen, Managers, and Customers in American Department Stores, 1890-1940_. University of Illinois Press, 1987. ISBN: 9780252060137. \[Preview with {{% resource_link "63b38b39-111a-4421-9f0a-3a277697089f" "Google Books" %}}\]
+Benson, Susan Porter. Chapters 3–4 in _Counter Cultures: Saleswomen, Managers, and Customers in American Department Stores, 1890-1940_. University of Illinois Press, 1987. ISBN: 9780252060137. \[Preview with [Google Books](http://books.google.com/books?id=HX01Ls3-PAIC&pg=PA75#v=onepage)\]
 
 Boorstin, Daniel J. Chapter 10 in _The Americans: The Democratic Experience_. Random House, 1973. ISBN: 9780394487243.
 
@@ -214,7 +214,7 @@ Packard, Vance. Chapter 10 in _The Hidden Persuaders_. Pocket, 1984. ISBN: 97806
 
 Sicilia, David B. "Supermarket Sweep." _Audacity_ (1997): 11–9.
 
-{{% resource_link "92c5d9d1-04d1-476e-a614-9f1bca6ee471" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Longstreth, Richard. Chapter 4 in {{% resource_link "92c5d9d1-04d1-476e-a614-9f1bca6ee471" "_The Drive-in, the Supermarket, and the Transformation of Commercial Space in Los Angeles, 1914–1941_" %}}. MIT Press, 2000. ISBN: 9780262621427. \[Preview with {{% resource_link "49817408-73c9-4ebf-b1b9-6ed99a722cb8" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621427) Longstreth, Richard. Chapter 4 in [_The Drive-in, the Supermarket, and the Transformation of Commercial Space in Los Angeles, 1914–1941_](https://mitpress.mit.edu/9780262621427). MIT Press, 2000. ISBN: 9780262621427. \[Preview with [Google Books](http://books.google.com/books?id=3skDADOHE9UC&printsec=frontcover)\]
 
 
 {{< tdclose >}}
@@ -232,13 +232,13 @@ Public Baths
 
 Williams, Marilyn Thornton. "Philanthropy in the Progressive Era: The Public Baths of Baltimore." _Maryland Historical Magazine_, 1977, 118–31.
 
-———. "{{% resource_link "07797d06-4bab-452a-9686-9d9fbc9c61a7" "New York City's Public Baths" %}}." _Journal of Urban History_ 7, no. 1 (1980): 49–81.
+———. "[New York City's Public Baths](http://dx.doi.org/10.1177/009614428000700103)." _Journal of Urban History_ 7, no. 1 (1980): 49–81.
 
-Wilkie, Jacqueline S. "{{% resource_link "8c7e8db9-89d1-4532-b3dc-794e34175add" "Submerged Sensuality: Technology and Perceptions of Bathing" %}}." _Journal of Social History_ 19, no. 4 (1986): 649–64.
+Wilkie, Jacqueline S. "[Submerged Sensuality: Technology and Perceptions of Bathing](http://dx.doi.org/10.1353/jsh/19.4.649)." _Journal of Social History_ 19, no. 4 (1986): 649–64.
 
-Bushman, Richard L., and Claudia L. Bushman. "{{% resource_link "82a5e5b6-d54a-4ddb-abb9-436426b56cf5" "The Early History of Cleanliness in America" %}}." _Journal of American History_ 74, no. 4 (1988): 1213–38.
+Bushman, Richard L., and Claudia L. Bushman. "[The Early History of Cleanliness in America](http://www.jstor.org/stable/1894408)." _Journal of American History_ 74, no. 4 (1988): 1213–38.
 
-Hoy, Suellen. Chapter 4 in _Chasing Dirt: The American Pursuit of Cleanliness_. Oxford University Press, 1996. ISBN: 9780195111286. \[Preview with {{% resource_link "6c8a79ea-97e0-479d-ba9e-5b48e834ace3" "Google Books" %}}\]
+Hoy, Suellen. Chapter 4 in _Chasing Dirt: The American Pursuit of Cleanliness_. Oxford University Press, 1996. ISBN: 9780195111286. \[Preview with [Google Books](http://books.google.com/books?id=h9KM1PFBX0cC&printsec=frontcover)\]
 
 Gerhard, Wm. Paul. "The Modern Rain-Bath." _American Architect and Building News_, February 10, 1894, 67–9.
 
@@ -256,9 +256,9 @@ Zoos
 {{< tdopen >}}
 
 
-Horowitz, Helen. "{{% resource_link "22ccd613-9e8f-4f56-a0d1-245af9926330" "The National Zoological Park: 'City of Refuge' or Zoo?" %}}" _Records of the Columbia Historical Society of Washington, D.C._ (1973–1974): 405–29.
+Horowitz, Helen. "[The National Zoological Park: 'City of Refuge' or Zoo?](http://www.jstor.org/stable/40067750)" _Records of the Columbia Historical Society of Washington, D.C._ (1973–1974): 405–29.
 
-———. "{{% resource_link "5c4cefb6-3b20-4e6f-9b0f-906bfd843c81" "Seeing Ourselves Through the Bars: A Historical Tour of American Zoos" %}}." _Landscape_ 25, no. 2 (1981): 12–9.
+———. "[Seeing Ourselves Through the Bars: A Historical Tour of American Zoos](http://www.cabdirect.org/abstracts/19811880884.html)." _Landscape_ 25, no. 2 (1981): 12–9.
 
 Turner, James. _Reckoning with the Beast: Animals, Pain, and Humanity in the Victorian Mind_. Johns Hopkins University Press, 2000. ISBN: 9780801866777.
 
@@ -280,7 +280,7 @@ Cemeteries
 
 Aries, Philippe. "The Reversal of Death: Change in Attitudes Toward Death in Western Societies." In _Death in America_. Edited by David Stannard. University of Pennsylvania Press, 1974, pp. 134–58. ISBN: 9780812210842.
 
-French, Stanley. "{{% resource_link "a06c60fd-61a9-44a9-8bfe-47e733beefd4" "The Cemetery as Cultural Institution: The Establishment of Mt. Auburn and the Rural Cemetery Movement" %}}." _American Quarterly_ 26, no. 1 (1974): 37–59.
+French, Stanley. "[The Cemetery as Cultural Institution: The Establishment of Mt. Auburn and the Rural Cemetery Movement](http://www.jstor.org/stable/2711566)." _American Quarterly_ 26, no. 1 (1974): 37–59.
 
 Farrell, James J. Chapter 4 in _Inventing the American Way of Death 1830–1920_. Temple University Press, 1980. ISBN: 9780877221807.
 
